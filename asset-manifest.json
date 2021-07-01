@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5af69155.chunk.css",
+    "main.js": "/static/js/main.fa021f2b.chunk.js",
+    "main.js.map": "/static/js/main.fa021f2b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.245f0cb5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.245f0cb5.js.map",
+    "static/js/2.81a502e4.chunk.js": "/static/js/2.81a502e4.chunk.js",
+    "static/js/2.81a502e4.chunk.js.map": "/static/js/2.81a502e4.chunk.js.map",
+    "static/js/3.39adade1.chunk.js": "/static/js/3.39adade1.chunk.js",
+    "static/js/3.39adade1.chunk.js.map": "/static/js/3.39adade1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5af69155.chunk.css.map": "/static/css/main.5af69155.chunk.css.map",
+    "static/js/2.81a502e4.chunk.js.LICENSE.txt": "/static/js/2.81a502e4.chunk.js.LICENSE.txt",
+    "static/media/Headshot.63f7a3ba.jpg": "/static/media/Headshot.63f7a3ba.jpg",
+    "static/media/godish.16b3d022.png": "/static/media/godish.16b3d022.png",
+    "static/media/mern-project.202267e3.png": "/static/media/mern-project.202267e3.png",
+    "static/media/swb-app.60c50605.png": "/static/media/swb-app.60c50605.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.245f0cb5.js",
+    "static/js/2.81a502e4.chunk.js",
+    "static/css/main.5af69155.chunk.css",
+    "static/js/main.fa021f2b.chunk.js"
+  ]
+}
