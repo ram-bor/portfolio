@@ -1,3 +1,3 @@
-# Portfolio - 
+# Portfolio
 
 <!-- // "homepage": "http://robertoramos.io/" -->
